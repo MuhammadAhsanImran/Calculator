@@ -40,7 +40,8 @@ calculator%20img.png)
 
 ## Live Demo
 
-Live Demo will be added after deployment.
+[View Live Calculator]
+(YOUR_LIVE_LINK_HERE)
 
 ## Project Structure
 
