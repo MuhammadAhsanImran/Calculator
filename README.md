@@ -30,7 +30,13 @@ A responsive and user-friendly calculator built using HTML, CSS, and JavaScript.
 
 ## Screenshots
 
-Screenshots will be added here.
+### Desktop View
+![Calculator Desktop View](./
+calculator%20img.jpeg)
+
+### Mobile View
+![Calculator Mobile View](./
+calculator%20img.png)
 
 ## Live Demo
 
