@@ -41,7 +41,7 @@ calculator%20img.png)
 ## Live Demo
 
 [View Live Calculator]
-(YOUR_LIVE_LINK_HERE)
+https://muhammadahsanimran.github.io/Calculator/
 
 ## Project Structure
 
